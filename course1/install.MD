@@ -4,7 +4,7 @@ https://solana.com/docs/intro/installation
 
 mac系统
 
-
+安装solana开发需要的依赖
 
 #### 安装rust 
 
